@@ -1,0 +1,10 @@
+C:\Users\Migle\Documents\TOP\MyFirstProject\AntraTOPMigle\AntraTOPMigle\bin\Debug\AntraTOPMigle.exe.config
+C:\Users\Migle\Documents\TOP\MyFirstProject\AntraTOPMigle\AntraTOPMigle\bin\Debug\AntraTOPMigle.exe
+C:\Users\Migle\Documents\TOP\MyFirstProject\AntraTOPMigle\AntraTOPMigle\bin\Debug\AntraTOPMigle.pdb
+C:\Users\Migle\Documents\TOP\MyFirstProject\AntraTOPMigle\AntraTOPMigle\obj\Debug\AntraTOPMigle.csprojResolveAssemblyReference.cache
+C:\Users\Migle\Documents\TOP\MyFirstProject\AntraTOPMigle\AntraTOPMigle\obj\Debug\AntraTOPMigle.exe
+C:\Users\Migle\Documents\TOP\MyFirstProject\AntraTOPMigle\AntraTOPMigle\obj\Debug\AntraTOPMigle.pdb
+C:\Users\Migle\Documents\TOP\MyFirstProject\AntraTOPMigle\AntraTOPMigle\obj\Debug\AntraTOPMigle.GUI.Form1.resources
+C:\Users\Migle\Documents\TOP\MyFirstProject\AntraTOPMigle\AntraTOPMigle\obj\Debug\AntraTOPMigle.csproj.GenerateResource.Cache
+C:\Users\Migle\Documents\TOP\MyFirstProject\AntraTOPMigle\AntraTOPMigle\obj\Debug\AntraTOPMigle.GUI.WorkerMessage.resources
+C:\Users\Migle\Documents\TOP\MyFirstProject\AntraTOPMigle\AntraTOPMigle\obj\Debug\AntraTOPMigle.GUI.MessageSimpleORManage.resources
